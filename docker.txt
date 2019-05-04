@@ -1,0 +1,5 @@
+Docker container is a lightweight high performance software package that contains all needed information to execute an application.
+When to use
+1) Run multiples applications separately without dependency
+2) Creates environment to start with a new tool saving installation and configuration
+3) Creates a environment close to the production environment so developers won't need to use a remote one
